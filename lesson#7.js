@@ -272,3 +272,6 @@
 //   consecutive([4,8,6])
 
 //console.log('Hello world')
+
+let a = 8;
+let b = 7;

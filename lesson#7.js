@@ -270,3 +270,5 @@
 //     console.log(arr1.length - arr.length);
 //   }
 //   consecutive([4,8,6])
+
+//console.log('Hello world')
